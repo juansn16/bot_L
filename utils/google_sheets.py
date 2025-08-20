@@ -4,7 +4,7 @@ from google.oauth2 import service_account
 from googleapiclient.discovery import build
 
 SCOPES = ["https://www.googleapis.com/auth/spreadsheets"]
-
+#as
 def _build_credentials() -> service_account.Credentials:
     """Crea credenciales desde un archivo de cuenta de servicio."""
     credentials_file = (
