@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "prefab-mapper-446507-v8",
+  "private_key_id": "804bf8464ed4c1c3b3b0f879981feceebbbc9e4b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCzUoAeBvN3LPRR\nMEd3PD9QbdUfGeAkVkP40/PXzQMkVib3JG8SA9kl+oWVJkY2EyAC3GPIxxHRINoT\nWaOxprCP49fQfC6KLnXCyeJdW8EkKTLN2Qs8NGML26ZXu8Rlj8c6yb/PGxWPskIT\nvu3MfvoOTtrLdQchk4HHh4etCvf3CjYcm0CM6KKypbWrr2sVg2VfBRc1TZr/bktJ\nJ+U2lx4NUL2rZypnwdqQPH/a60uIfg9d1/rsgoRMHK6/60qZ07tsiEBrM9hkZa5x\nJ1JjMbjQn0648ivOAUht9dZWgl+66Kw+JQ/1XwoUVbFgQA1zb3mmlNZfuZnlZbVa\nk5oDjJy9AgMBAAECggEAGJaSIyvkU93J5V0Hm5ma++IHhFN1uL3MZbDYYWmGygN3\nJdGs2i1FZ+/9Q5mDLJR8QfAqzYPAVWraBCe5KpmW4bAF7lwsvH1I3+vzOkZjyhvN\nD804PWnYf+5/FU4VjLCFirHRt2n5D6JLba4zKKRrkK0u0pGKKAg0FiInECruG8Uj\nhgB+UllJfDBXDWw/UStg8J+0cLUSei2c7D3/2beyvH9DCyCikp/OZ0hIA5gRxN09\nDOCKTDOwNOny+eep27lYMijUbgzcvBKaWIFGHdkUe399f5tjAvgjyNEmQCAIxJQ5\nwRU+SjeVEa12i3hiBM1oM8nYdCjlFTRsdd05AZgQUQKBgQDlyFLIZnA5GMjAxLVy\ntiAY8DBPZmYB6JSmGA3qb6TJYDKgjSpe0duEkPz0ebYS09UDWvIGNVabzeDdzVqG\ndTenosrRUGSSKth1HQ3YGBWLAvFrM/oQYUVqMC3Ncnj2sfjUG8ZqyXXwQSzIvNe8\nnHjBIt1f/HGAKXUAzC6/RuKXjQKBgQDHyErwRjeUIIuCginJnKrDv2JHReQ1tX9B\n2BmkaODBR/MlRqR//+SGsdkoSbIhguJwOLlEfwz1ZwEggu5w/WW3qGiHupchct3w\nlqpV51bwr/llbcwnaHTTfte4+WUGBZGBBgRie3lVnRpb+xpF910ihuRGNRe8O9ne\nE4xzBHr18QKBgEQ+YpeyFNJgUf8ubNVM0euWKkLqnpEiikNqEXf3AHHuaBrW0ian\nHRMaHIZfP3wH/dOpRwgg/z/2vToiqygT2BupdaMExVnD79WYc2wiewN2NE0qerIy\nsXMALBpATTy3TrdwKFW+z5AzSyGzND+IGTUDLcw8JVly9pTuD1QvsUxhAoGABVvs\nFrHrf7+3vlJ7iHr5YbLakgrf6kjqFvwTBAQEM2sYrKFOfFiC6tIOfzQq4Rc/t77t\nyVaXJGYU86hPeRxzBBAybaGluDH6nh+Mhi1keaRezke5uDznFV1LsByQhy7TDmD4\n8SNax98k+96qf8H475oquW9nKZd5aqmflN5D5iECgYAib1VWSAyyaMXY6jyWQ/RP\n3x2n8bALZqESUvKJNPl2I9mpIgsSffy3LLGCniXyOL4y5Z4onqhoYpkPBhtFxL5z\noX181z1Qw7HcvCga78vQ5YSRPhBKEw/Wne4iWljsdSk/1hxJSmJtwM3Otiy3pkGC\nSLm/zml7pZOV2+RNQVPBFA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "botprueba@prefab-mapper-446507-v8.iam.gserviceaccount.com",
+  "client_id": "107717892141899945810",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/botprueba%40prefab-mapper-446507-v8.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
